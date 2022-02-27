@@ -1,2 +1,2 @@
 # ktech website project
-A website for a IT company.
+Project to create a website for a IT company.
